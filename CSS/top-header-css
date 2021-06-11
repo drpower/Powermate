@@ -1,0 +1,65 @@
+<style>
+.addview-new {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    width: 83.1%;
+    margin-top: 30px;
+}
+
+@media only screen and (max-width: 1024px) {
+.addview-new {
+    width: 100%;
+}
+}
+
+.template-pages-product-productLayout2Page .free-ship:after {
+    content: "Select Powermate Equipment ships for free, either to your home (for products light enough to ship by UPS), or to a shipping depot near you (for heavier products that must ship by motor freight). Enhanced shipping options are also available if you are unable to pick up your product from a depot.";
+    /* content: "Select DR Power Equipment ships for free to your home. Plus, for a limited time, any item that ships by motor freight is eligible for FREE Liftgate Service. To take advantage of this offer, simply choose the Home Delivery With Liftgate Service option at checkout."; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    padding:15px;
+}
+
+.pageType-ProductPage .ps-wtb .ps-header {
+    background: #fff !important;
+}
+
+.pageType-ProductPage .ps-product-details > span.ps-sku {
+    color: #666 !important;
+}
+
+
+H1 {
+	color: #c32033;
+}
+H2 {
+	color: #c32033;
+}
+H3 {
+	color: #c32033;
+}
+.template-pages-layout-contentLayout2Page .main__inner-wrapper {
+    min-height: 800px;
+}
+
+
+@media (min-width: 768px) {
+#footer-main .col-md-12 .col-sm-4:nth-child(3), #footer-main .col-md-12 .col-sm-4:nth-child(4) {
+    margin-top: -6.40em !important;
+}}
+
+@media screen and (min-width: 1023px){
+.logo {
+    margin: 0rem 0 0.3rem;
+}}
+
+@media only screen and (max-width: 600px){
+.logo {
+    padding-top: 13px;
+}}
+</style>
