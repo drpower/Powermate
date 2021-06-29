@@ -5,6 +5,7 @@
     text-align: center;
     width: 83.1%;
     margin-top: 30px;
+    display: none; /* hiding the restrict ship */
 }
 
 @media only screen and (max-width: 1024px) {
